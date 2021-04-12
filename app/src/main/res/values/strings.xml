@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppComponentes</string>
+    <string name="valTitulo">REGISTRO DE PERSONAS</string>
+    <string name="etNombre">Ingrese su nombre</string>
+    <string name="etApellido">Ingrese su apellido</string>
+    <string name="valGenero">Seleccione su genero</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="valMasculino">Masculino</string>
+    <string name="valFemenino">Femenino</string>
 </resources>
