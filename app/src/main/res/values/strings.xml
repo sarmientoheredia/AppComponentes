@@ -12,4 +12,13 @@
     <string name="valCine">Cine</string>
     <string name="valDeporte">Deporte</string>
     <string name="valNotificar">Notificar por Email</string>
+    <string name="valRegistro">Guardar</string>
+    <string name="valListar">LISTAR PERSONAS REGISTRADAS</string>
+    <string name="errorNombreApellido">El nombre  y el apellido son requeridos</string>
+    <string name="errorGenero">El genero es requerido</string>
+    <string name="errorPreferencia">La preferencia es requerida</string>
+    <string name="errorEstadoCivil">El estado civil es requerido</string>
+    <string name="errorNombre">El nombre es requerido</string>
+    <string name="errorApellido">El apellido es requerido</string>
+    <string name="valTituloLista">LISTADO DE PERSONAS</string>
 </resources>
