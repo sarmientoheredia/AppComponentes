@@ -4,8 +4,12 @@
     <string name="etNombre">Ingrese su nombre</string>
     <string name="etApellido">Ingrese su apellido</string>
     <string name="valGenero">Seleccione su genero</string>
-    <string name="radiobutton">RadioButton</string>
-    <string name="radiobutton">RadioButton</string>
     <string name="valMasculino">Masculino</string>
     <string name="valFemenino">Femenino</string>
+    <string name="valEstado">Estado civil</string>
+    <string name="valPreferencia">Seleccione su preferencia</string>
+    <string name="valDibujo">Dibujo</string>
+    <string name="valCine">Cine</string>
+    <string name="valDeporte">Deporte</string>
+    <string name="valNotificar">Notificar por Email</string>
 </resources>
